@@ -10,6 +10,6 @@ class GitUndo < Formula
     sha256 "3da1afc63cfa17a8e2873bd76c21618b98e35f440b912c6a1a756bc076ee92bd"
 
     def install
-        bin.install "git-undo"
+        bin.install "git-undo.sh"
     end
 end
