@@ -7,7 +7,7 @@ class GitUndo < Formula
     homepage "https://github.com/juliexue/git-undo"
     url "https://github.com/juliexue/git-undo/archive/v0.3.tar.gz"
     version "0.3"
-    sha256 "8bcc1723c021987499d68c5f561ce0da2e4a681d"
+    sha256 "3da1afc63cfa17a8e2873bd76c21618b98e35f440b912c6a1a756bc076ee92bd"
 
     def install
         bin.install "git-undo"
